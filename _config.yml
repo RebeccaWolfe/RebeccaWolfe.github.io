@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://RebeccaWolfe.github.io
+title: Coming Up Roses
+email: rebeccarosewolfe@gmail.com
+author: Rebecca Wolfe
+description: My awesome new site
+paginate: 5
+google_analytics: 
